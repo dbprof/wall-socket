@@ -1,4 +1,5 @@
-#SMART ARDUINO BLUETOOTH WALL SOCKET
+# SMART ARDUINO BLUETOOTH WALL SOCKET
+![Результат в железе](https://github.com/dbprof/wall-socket/blob/master/mainpic.png)
 Умная розетка на Arduino управляемая со смартфона по Bluetooth. Позволяет при помощи пароля блокировать доступ к устройствам путем блокировки питания. Поможет блокировать развлечения для детей при отсутствии родителей. Общая стоимость конечного устройства получилась порядка 500 р.
 1. В наличии для прототипирования и проверки работоспособности:
 * 1 x релейный модуль ([https://ru.aliexpress.com...](https://ru.aliexpress.com/item/Free-Shipping-1PCS-5V-low-level-trigger-One-1-Channel-Relay-Module-interface-Board-Shield-For/32480128984.html?spm=a2g0s.9042311.0.0.MGShMw))
